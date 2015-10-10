@@ -27,7 +27,7 @@ List of headers that I created in full:
 
 List of headers I created in full:
 <ul>
-  <li> Everything in Asteroids </il>
+  <li> Everything in Asteroids (Laser.h, Ship.h and Asteroid.h were not carried over) </il>
   <li> CannonBall.h </il>
   <li> Enemy.h </il>
   <li> GameMode.h </il>
