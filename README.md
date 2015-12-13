@@ -100,7 +100,7 @@ The game is a take to combine two classic games and put them together: Street Fi
 </ul>
 
 To play the game:
-Open SDBX.xcodepoj with Xcode. Build with target as SDBXEditor to open Unreal Editor. Press the play button in Unreal to play the game.
+Generate an Xcode project file from the Unreal Editor project (in Mac: right click on the .uproject file, go to services and generate Xcode Project). Open SDBX.xcodepoj with Xcode. Build with target as SDBXEditor to open Unreal Editor. Press the play button in Unreal to play the game.
 The game is a two player game and can be played with XBox controllers or on the keyboard.
 
 Controls:
